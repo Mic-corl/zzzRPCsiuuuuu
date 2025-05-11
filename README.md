@@ -17,11 +17,11 @@
 
 | 功能 | 描述 |
 |------|------|
-| ✅ 泛化调用 | 不依赖接口定义，直接传参调用任意方法 |
-| ✅ 服务治理 | 负载均衡、失败重试、熔断限流 |
-| ✅ 注册中心集成 | 支持 Nacos、ZooKeeper、Eureka |
-| ✅ 分布式追踪 | 集成 SkyWalking、Zipkin、OpenTelemetry |
-| ✅ 服务端多线程处理 | 使用 Worker Verticle 避免阻塞 Event Loop |
+| × 泛化调用 | 不依赖接口定义，直接传参调用任意方法 |
+| × 服务治理 | 负载均衡、失败重试、熔断限流 |
+| × 注册中心集成 | 支持 Nacos、ZooKeeper、Eureka |
+| × 分布式追踪 | 集成 SkyWalking、Zipkin、OpenTelemetry |
+| × 服务端多线程处理 | 使用 Worker Verticle 避免阻塞 Event Loop |
 
 进一步加入各种机制：
 ### 🔧 1. 支持多种序列化方式
