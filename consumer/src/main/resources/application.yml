@@ -1,0 +1,5 @@
+protocol: http
+serializer: jdk
+timeout: 5000
+registryAddress: localhost:2181
+enableRegistry: false

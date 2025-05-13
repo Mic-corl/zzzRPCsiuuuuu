@@ -1,0 +1,11 @@
+com\zyzz\proxy\ServiceProxyFactory.class
+com\zyzz\server\HttpServerHandler.class
+com\zyzz\model\RpcRequest.class
+com\zyzz\serializer\JDKSerializer.class
+com\zyzz\server\HttpServer.class
+com\zyzz\model\RpcRequest$RpcRequestBuilder.class
+com\zyzz\registry\LocalRegistry.class
+com\zyzz\serializer\Serializer.class
+com\zyzz\server\VertxHttpServer.class
+com\zyzz\proxy\ServiceProxy.class
+com\zyzz\model\RpcResponse.class

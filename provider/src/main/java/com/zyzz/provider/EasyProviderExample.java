@@ -4,6 +4,7 @@ import com.zyzz.registry.LocalRegistry;
 import com.zyzz.server.HttpServer;
 import com.zyzz.server.VertxHttpServer;
 
+
 public class EasyProviderExample {
     /**
  * 程序的入口点

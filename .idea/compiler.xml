@@ -7,16 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zzzRPC-simple" />
+        <module name="zzzRPC-registry" />
+        <module name="zzzRPC-spring-boot-starter" />
+        <module name="zzzRPC-config" />
         <module name="provider" />
+        <module name="service" />
+        <module name="zzzRPC-protocol" />
+        <module name="zzzRPC-model" />
+        <module name="zzzRPC-core" />
         <module name="consumer" />
-        <module name="Common" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="zzzRPC-simple" options="" />
+      <module name="zzzRPC-core" options="" />
     </option>
   </component>
 </project>

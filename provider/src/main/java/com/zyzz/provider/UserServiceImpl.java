@@ -1,6 +1,6 @@
 package com.zyzz.provider;
 
-import com.zyzz.model.User;
+import com.zyzz.User;
 import com.zyzz.service.UserService;
 
 public class UserServiceImpl implements UserService {

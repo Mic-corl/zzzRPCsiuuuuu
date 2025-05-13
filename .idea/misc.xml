@@ -11,6 +11,14 @@
         <option value="$PROJECT_DIR$/provider/pom.xml" />
         <option value="$PROJECT_DIR$/cumsumer/pom.xml" />
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-config/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-core/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-protocol/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/zzzRPC-model/pom.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
       </list>
     </option>
   </component>

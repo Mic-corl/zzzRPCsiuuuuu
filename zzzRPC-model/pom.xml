@@ -5,28 +5,23 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zyzz</groupId>
-    <artifactId>provider</artifactId>
+    <artifactId>zzzRPC-model</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/cn.hutool/hutool-all -->
         <dependency>
-            <groupId>com.zyzz</groupId>
-            <artifactId>zzzRPC-model</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.16</version>
         </dependency>
+        <!-- https://projectlombok.org/ -->
         <dependency>
-            <groupId>com.zyzz</groupId>
-            <artifactId>zzzRPC-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+            <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>com.zyzz</groupId>
-            <artifactId>service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-
-
     </dependencies>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
