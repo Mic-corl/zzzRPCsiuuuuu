@@ -23,4 +23,10 @@
 | × 分布式追踪 | 集成 SkyWalking、Zipkin、OpenTelemetry |
 | × 服务端多线程处理 | 使用 Worker Verticle 避免阻塞 Event Loop |
 
+---
 
+## 待办事项
+- 配置中心 √
+- 注册中心集成
+- SPI机制应用，初步为序列化器切换
+- ......
